@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CentralitaNamespace", "Centralita\CentralitaNamespace.csproj", "{ABAC384F-9E9F-4EE4-8B58-2DBDCD7BCA16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{478B6BCD-D1B2-4444-BF84-5EB2BEABEEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmMenu", "FrmMenu\FrmMenu.csproj", "{EC34DAEE-A887-4BA0-B074-5C8954C4723C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAC384F-9E9F-4EE4-8B58-2DBDCD7BCA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAC384F-9E9F-4EE4-8B58-2DBDCD7BCA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAC384F-9E9F-4EE4-8B58-2DBDCD7BCA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAC384F-9E9F-4EE4-8B58-2DBDCD7BCA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478B6BCD-D1B2-4444-BF84-5EB2BEABEEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478B6BCD-D1B2-4444-BF84-5EB2BEABEEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478B6BCD-D1B2-4444-BF84-5EB2BEABEEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478B6BCD-D1B2-4444-BF84-5EB2BEABEEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC34DAEE-A887-4BA0-B074-5C8954C4723C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC34DAEE-A887-4BA0-B074-5C8954C4723C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC34DAEE-A887-4BA0-B074-5C8954C4723C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC34DAEE-A887-4BA0-B074-5C8954C4723C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69563A0-44F8-41B7-9988-8AE2FBBCEB55}
+	EndGlobalSection
+EndGlobal
