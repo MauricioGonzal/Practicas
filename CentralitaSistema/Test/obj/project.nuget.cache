@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jeErCR0S0we+VpBWGh0CTPNc8CR/5AMm5KF9DSF7NM+7C9WUCVgCrbrqtniov6xXxmD+halAtkh+EmW+pDIyvg==",
+  "dgSpecHash": "lMBdiffPVQ59iJzHhw2q5W8zOuo/ZNkmfTzwk7tq3Lc3IHLeHlvZ21/KGCkV60czWTiKsxm7i6Jr97i8ioH+FQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Test\\Test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

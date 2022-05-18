@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Centralita\\CentralitaNamespace.csproj",
+      "projectUniqueName": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Centralita\\CentralitaNamespace.csproj",
       "projectName": "CentralitaNamespace",
-      "projectPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Centralita\\CentralitaNamespace.csproj",
+      "projectPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Centralita\\CentralitaNamespace.csproj",
       "packagesPath": "C:\\Users\\Mauri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Centralita\\obj\\",
+      "outputPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Centralita\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
