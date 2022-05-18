@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Centralita\\CentralitaSistema\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Centralita\\CentralitaSistema\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Mauri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Centralita\\CentralitaSistema\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Centralita\\CentralitaNamespace.csproj": {
-              "projectPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\CentralitaSistema\\Centralita\\CentralitaNamespace.csproj"
+            "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Centralita\\CentralitaSistema\\Centralita\\CentralitaNamespace.csproj": {
+              "projectPath": "C:\\Users\\Mauri\\source\\ejercicios\\Centralita\\Centralita\\CentralitaSistema\\Centralita\\CentralitaNamespace.csproj"
             }
           }
         }
