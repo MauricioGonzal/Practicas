@@ -33,6 +33,8 @@ namespace FrmMenu
             frmMostrar.TipoLlamada = TipoLlamada.Todas;
             frmMostrar.Show();
             
+            
+            
 
 
         }
@@ -55,6 +57,11 @@ namespace FrmMenu
         private void btnSalir_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
