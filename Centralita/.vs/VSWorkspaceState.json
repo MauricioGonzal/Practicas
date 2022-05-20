@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CentralitaSistema",
+    "\\CentralitaSistema\\Centralita",
     "\\CentralitaSistema\\FrmMenu"
   ],
-  "SelectedNode": "\\CentralitaSistema\\FrmMenu\\Form1.cs",
+  "SelectedNode": "\\CentralitaSistema\\FrmMenu\\FrmLlamador.cs",
   "PreviewInSolutionExplorer": false
 }
