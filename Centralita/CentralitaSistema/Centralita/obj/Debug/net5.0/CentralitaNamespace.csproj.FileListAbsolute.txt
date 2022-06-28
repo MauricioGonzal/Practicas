@@ -10,3 +10,15 @@ C:\Users\Mauri\source\ejercicios\Centralita\Centralita\obj\Debug\net5.0\Centrali
 C:\Users\Mauri\source\ejercicios\Centralita\Centralita\obj\Debug\net5.0\refint\CentralitaNamespace.dll
 C:\Users\Mauri\source\ejercicios\Centralita\Centralita\obj\Debug\net5.0\CentralitaNamespace.pdb
 C:\Users\Mauri\source\ejercicios\Centralita\Centralita\obj\Debug\net5.0\ref\CentralitaNamespace.dll
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\bin\Debug\net5.0\CentralitaNamespace.deps.json
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\bin\Debug\net5.0\CentralitaNamespace.dll
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\bin\Debug\net5.0\CentralitaNamespace.pdb
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\CentralitaNamespace.csproj.AssemblyReference.cache
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\CentralitaNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\CentralitaNamespace.AssemblyInfoInputs.cache
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\CentralitaNamespace.AssemblyInfo.cs
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\CentralitaNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\CentralitaNamespace.dll
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\refint\CentralitaNamespace.dll
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\CentralitaNamespace.pdb
+C:\Users\Mauri\source\ejercicios\Centralita\Centralita\CentralitaSistema\Centralita\obj\Debug\net5.0\ref\CentralitaNamespace.dll

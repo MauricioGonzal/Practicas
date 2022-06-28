@@ -3,8 +3,9 @@
     "",
     "\\CentralitaSistema",
     "\\CentralitaSistema\\Centralita",
-    "\\CentralitaSistema\\FrmMenu"
+    "\\CentralitaSistema\\FrmMenu",
+    "\\CentralitaSistema\\TestCentralita"
   ],
-  "SelectedNode": "\\CentralitaSistema\\FrmMenu\\FrmLlamador.cs",
+  "SelectedNode": "\\CentralitaSistema\\TestCentralita\\TestCentralita.cs",
   "PreviewInSolutionExplorer": false
 }

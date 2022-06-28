@@ -12,7 +12,7 @@ namespace CentralitaNamespace
         Franja_2,
         Franja_3
     }
-    public class Provincial:Llamada
+    public class Provincial:Llamada, IGuardar<Provincial>
     {
         
 
@@ -48,6 +48,8 @@ namespace CentralitaNamespace
             }
         }
 
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
         public Provincial(Franja miFranja, Llamada llamada):this(llamada.NroOrigen, miFranja,  llamada.Duracion, llamada.NroDestino)
         {
             
@@ -77,7 +79,14 @@ namespace CentralitaNamespace
             return obj is Provincial;
         }
 
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
 
-
+        public Provincial Leer()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

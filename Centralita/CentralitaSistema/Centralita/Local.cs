@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CentralitaNamespace
 {
-    public class Local: Llamada
+    public class Local: Llamada, IGuardar<Local>
     {
         protected float costo;
 
@@ -14,6 +14,8 @@ namespace CentralitaNamespace
         {
             get { return CalcularCosto(); }
         }
+
+        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public Local(string origen, float duracion, string destino, float costo):base(duracion, destino, origen)
         {
@@ -51,5 +53,14 @@ namespace CentralitaNamespace
             return obj is Local;
         }
 
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Local Leer()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

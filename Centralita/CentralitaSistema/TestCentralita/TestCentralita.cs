@@ -62,6 +62,38 @@ namespace TestCentralita
 
         }
 
+        [TestMethod]
+        public void Igualdad_CuandoSePasanDosInstanciasLocalYDosProvincialConMismosDatosDeOrigenYDestino_DeberiaRetornarTrueSoloInstanciasEntreSi()
+        {
+            //arrange
+            Local local1;
+            Local local2;
+            Provincial prov1;
+            Provincial prov2;
+            
+
+            //act
+            local1 = new Local("222", 2, "222", 2);
+            local2 = new Local("222", 5, "222", 7);
+            prov1 = new Provincial("222", Franja.Franja_3, 8, "222");
+            prov2 = new Provincial("222", Franja.Franja_3, 8, "222");
+
+
+
+            //assert
+            
+
+            Assert.AreEqual(false, local1 == prov1);
+            Assert.AreEqual(true, local1 == local2);
+            Assert.AreEqual(false, local1 == prov2);
+            Assert.AreEqual(false, prov1 == local2);
+            Assert.AreEqual(true, prov1 == prov2);
+            Assert.AreEqual(false, local2 == prov2);
+
+        }
+
+
+
 
     }
 }

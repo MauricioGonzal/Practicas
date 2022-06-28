@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace CentralitaNamespace
 {
-    public class Centralita
+    public class Centralita: IGuardar<string>
     {
         private List<Llamada> listaDeLlamadas;
         protected string razonSocial;
@@ -40,6 +41,18 @@ namespace CentralitaNamespace
             get
             {
                 return listaDeLlamadas;
+            }
+        }
+
+        public string RutaDeArchivo
+        {
+            get
+            {
+                return Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            }
+            set
+            {
+                throw new NotImplementedException();
             }
         }
 
@@ -110,6 +123,25 @@ namespace CentralitaNamespace
             return this.Mostrar();
         }
 
+        public bool Guardar()
+        {
+            string ruta = RutaDeArchivo + @"\Bitacora.txt";
+            if (!File.Exists(ruta))
+            {
+                using(FileStream f= File.Create(ruta))
+                {
+
+                }
+            }
+            File.AppendAllText(ruta, $"{DateTime.Now} Se realizo una llamada\n");
+            return true;
+        }
+
+        public string Leer()
+        {
+            throw new NotImplementedException();
+        }
+
         public static bool operator ==(Centralita c, Llamada llamada)
         {
             foreach(Llamada aux in c.listaDeLlamadas)
@@ -134,6 +166,7 @@ namespace CentralitaNamespace
                 if (c != nuevaLlamada)
                 {
                     c.AgregarLlamada(nuevaLlamada);
+                    c.Guardar();
                 }
                 else
                 {
